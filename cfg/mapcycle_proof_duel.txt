@@ -1,0 +1,7 @@
+duel_amazon_a3b
+duel_excalibur_a2b
+duel_geoteknik_pro_b2
+duel_manncorp_a3a
+duel_seawalk_a2a
+duel_sloth_a4_pro
+duel_spiral_b6

@@ -1,0 +1,50 @@
+v0.1.6
+	ITEMS_GAME
+	- Added new cosmetics included in Revision 10
+
+v0.1.5
+	PROOF_BASE
+	- Set spec_freeze_showhealth to 0
+	- Set of_headshot_disable_railgun to 1
+	PROOF_DUEL
+	- Set of_duel_powerup_respawn to 35
+	- Set of_duel_powerup_timers to 0
+
+v0.1.4
+	ITEMS_GAME
+	- Added new hats included in Revision 8
+
+v0.1.3
+	PROOF_BASE
+	- Increased acceleration and deceleration when walking
+		- Increased sv_accelerate from 10 to 20
+		- Increased sv_stopspeed from 100 to 200
+	- Increased speed gain and loss when strafejumping
+		- Increased of_bunnhop_max_speed_factor from 1 to 1.5
+	- Added various settings that make ProOF function fully
+		- Set of_armor to 1
+		- Set of_crouchjump to 1
+		- Set sv_allow_votes to 1
+		- Set sv_vote_issue_changelevel_allowed to 1
+	MAPCYCLE_PROOF_DUEL
+	- Added a mapcycle file for duel
+		- The maps in this file can be found at https://www.mediafire.com/folder/wg4xyb031pkxl/maps
+	ITEMS_GAME
+	- Increased rocket launcher reload speed from 0.8 to 0.6
+	- Moved the position of the centered rocket launcher viewmodel to be more consistent with other weapons
+
+v0.1.2
+	SOUNDS
+	- Increased the volume of various walking sounds by 5dB
+	ITEMS_GAME
+	- Decreased the spread of the tommygun from 0.01 to 0.005
+	MODELS
+	- Created a custom .qc hitbox file for merc
+		- This isn't compiled yet! If you know how to do this please hit me up, my Discord tag is fossil#7086
+
+v0.1.1
+	ITEMS_GAME
+	- Reduced the tommygun's damage from 12 to 10
+	- Reduced the pistol's damage from 12 to 8
+	- Increased the pistol's clip size from 15 to 30
+	- Added cosmetics created in the newest update back
