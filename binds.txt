@@ -1,0 +1,13 @@
+WEAPON SELECTION
+
+use_rocket; use tf_weapon_rocketlauncher_proof		- use rockets
+use_lightgun; use tf_weapon_lightning_gun_proof		- use lg
+use_rail; use tf_weapon_railgun_proof			- use rail
+use_nail; use tf_weapon_nailgun_proof			- use nails
+use_gl; use tf_weapon_grenadelauncher_proof		- use grenades
+use_smg; use tf_weapon_tommygun_proof			- use tommygun
+use_shotgun; use tf_weapon_shotgun_proof		- use shotgun
+use_supersg; use tf_weapon_supershotgun_proof		- use super shotgun
+use_dynamite; use tf_weapon_dynamite_bundle_proof	- use dynamite bundle
+use_pistol; use tf_weapon_pistol_proof			- use pistol
+use_melee						- use crowbar

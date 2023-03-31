@@ -1,3 +1,25 @@
+v1.0
+	ITEMS_GAME
+	- Made ProOF versions of weapons seperate from their base equivalents
+		- This is to avoid things like the pistol reload animation freaking the fuck out in casual games
+	- Increased LG damage from 8 to 11
+	- Increased LG fire rate interval from 0.45 to 0.55
+	ZOO_PROOF_DM
+	- Replaced the default weapon spawns with their ProOF equivalents
+	- Replaced armour spawns with equivalents that have capped values (similar to how it functions in Quake Champions)
+		- RA gives 100 armour and can restore a player's armour to a max value of 200
+		- YA gives 50 armour and can restore a player's armour to a max value of 100
+		- GA gives 25 armour and can restore a player's armour to a max value of 100
+	- Added health and ammo spawns
+	- Mappers should update their maps and replace all weapon, armour and health spawns with the new ones, as well as adding the two filter_tfc_armor entities
+		- I'm so sorry to make you do this
+	PROOF_BASE
+	- Set of_spawners_resupply to 1
+	PROOF_TDM_2V2
+	- Increased mp_fraglimit from 50 to 100
+	PROOF_MCTF
+	- Set tf_flag_return_on_touch to 1
+
 v0.1.6
 	ITEMS_GAME
 	- Added new cosmetics included in Revision 10
@@ -20,7 +42,7 @@ v0.1.3
 		- Increased sv_accelerate from 10 to 20
 		- Increased sv_stopspeed from 100 to 200
 	- Increased speed gain and loss when strafejumping
-		- Increased of_bunnhop_max_speed_factor from 1 to 1.5
+		- Increased of_bunnyhop_max_speed_factor from 1 to 1.5
 	- Added various settings that make ProOF function fully
 		- Set of_armor to 1
 		- Set of_crouchjump to 1

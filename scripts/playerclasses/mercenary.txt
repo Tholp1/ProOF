@@ -46,7 +46,7 @@ PlayerClass
 	// Weapons.
 	"WeaponCount"		"2"
 	"weapon1"			"TF_WEAPON_CROWBAR"
-	"weapon2"			"TF_WEAPON_PISTOL_MERCENARY"
+	"weapon2"			"TF_WEAPON_PISTOL_PROOF"
 	"weapon3"			"NONE"
 	"weapon4"			"NONE"
 	"weapon5"			"NONE"
